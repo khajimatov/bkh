@@ -1,0 +1,19 @@
+{
+  "name": "bkh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khajimatov/bkh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khajimatov/bkh/issues"
+  },
+  "homepage": "https://github.com/khajimatov/bkh#readme"
+}
